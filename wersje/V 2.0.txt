@@ -31,6 +31,9 @@
 - Dodano możliwość kucania
 - Dodano skinienie głową jako tool
 - Dodano zabezpieczenie przed wejsciem do szatni sm/sop/któla osób np rząd
+- Naprawiono Kucanie
+- Naprawiono freecam
+- Dodano przycisk B jako pochylenie sie
 
 ::: info
 Wszelakie rzeczy mogą się jeszcze zmienić
