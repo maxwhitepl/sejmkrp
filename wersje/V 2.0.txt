@@ -34,6 +34,10 @@
 - Naprawiono Kucanie
 - Naprawiono freecam
 - Dodano przycisk B jako pochylenie sie
+- Zmieniono oświetlenie na Future
+- Od teraz można siedzieć na krzesłach wciskając przycisk F
+- Zmieniono stroje SM
+- Przerobiono szatnie SM
 
 ::: info
 Wszelakie rzeczy mogą się jeszcze zmienić
