@@ -38,6 +38,8 @@
 - Od teraz można siedzieć na krzesłach wciskając przycisk F
 - Zmieniono stroje SM
 - Przerobiono szatnie SM
+- Dodano stroje kobiece oraz podpisy strojów
+- Poprawiono oświetlenie w przebieralni posłów
 
 ::: info
 Wszelakie rzeczy mogą się jeszcze zmienić
