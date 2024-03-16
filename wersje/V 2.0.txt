@@ -40,6 +40,9 @@
 - Przerobiono szatnie SM
 - Dodano stroje kobiece oraz podpisy strojów
 - Poprawiono oświetlenie w przebieralni posłów
+- Dodano nowe stroje w SM ( Dywizja  WID )
+- Dodano nową maske
+- Dodano resetowanie postaci dla SM/SOP 
 
 ::: info
 Wszelakie rzeczy mogą się jeszcze zmienić
