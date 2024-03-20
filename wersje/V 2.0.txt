@@ -43,6 +43,8 @@
 - Dodano nowe stroje w SM ( Dywizja  WID )
 - Dodano nową maske
 - Dodano resetowanie postaci dla SM/SOP 
+- Wprowadzono winde do gry
+- Usunięto MegaWensza9
 
 ::: info
 Wszelakie rzeczy mogą się jeszcze zmienić
