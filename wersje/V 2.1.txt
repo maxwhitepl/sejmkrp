@@ -1,0 +1,9 @@
+# V 2.1
+
+- Dodano szatnie ABW
+- Dodano szatnie CBA
+- Poprawiono kilka modeli
+- Usunięto zbedne modele z mapy
+- Tworzenie medycznego centrum w SM.
+- Poprawiono kolizje podług i ścian.
+- Naprawiono Bariery na Sali plenarnej
