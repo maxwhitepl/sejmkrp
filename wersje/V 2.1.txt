@@ -7,3 +7,5 @@
 - Tworzenie medycznego centrum w SM.
 - Poprawiono kolizje podług i ścian.
 - Naprawiono Bariery na Sali plenarnej
+- Przywrócono toalete
+- Przywrócono Palarnie
