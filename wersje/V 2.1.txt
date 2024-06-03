@@ -10,3 +10,6 @@
 - Przywrócono toalete
 - Przywrócono Palarnie
 - Zmieniono WPGK na wojsko polskie
+- Dodano Centrum Medyczne
+- Naprawiono odległość słyszenia Maszyn przy łóżku szpitalnym z 1000 na 50
+- Naprawiono błąd w którym postacie miały żółty kolor skóry.
