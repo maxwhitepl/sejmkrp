@@ -5,6 +5,7 @@ Wszelkie duże zmiany wersji sejmu królewskiego w roblox
 | ------- | ---- | ---- |
 | 2.0 | [ V 2.0 ](https://github.com/maxwhitepl/sejmkrp/blob/main/wersje/V%202.0.txt) | 03 Marca 2024 |
 | 2.1 | [ V 2.1 ](https://github.com/maxwhitepl/sejmkrp/blob/main/wersje/V%202.1.txt) | 28 Maja 2024 |
+| 2.2 | [ V 2.2 ](https://github.com/maxwhitepl/sejmkrp/blob/main/wersje/V%202.2) | 12 Listopad 2024 |
 
 > [!NOTE]
 > Wszelakie zmiany oraz zapisy moga byc nie trwałe i często sie zmieniać
